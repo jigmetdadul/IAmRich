@@ -3,7 +3,8 @@
 //  i am rich
 //
 //  Created by Jigmet Stanzin Dadul on 23/11/22.
-//
+//  My first App, using udemy
+
 
 import UIKit
 
